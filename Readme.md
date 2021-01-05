@@ -1,10 +1,14 @@
-# A cloned version of TOP homepage using a personal **CSS 12 column grid framework** created with [Sass](https://sass-lang.com/).
+## A cloned version of TOP homepage using a personal **CSS 12 column grid framework** created with [Sass](https://sass-lang.com/).
 
-## Features available in the framework. 
 
-### Breakpoints similar to Bootstrap: (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px)
+ 
+### Features available in the framework. 
 
-### FLEXBOX
+ 
+#### Breakpoints similar to Bootstrap: (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px)
+
+ 
+#### FLEXBOX
 
 - Justify-content
 - Align items
@@ -13,8 +17,8 @@
 - Align self
 - Wrap
 
-
-### UTILITIES
+ 
+#### UTILITIES
 
 - Display
 - Position
@@ -25,8 +29,8 @@
 - Padding
 - Border
 
-
-## Example of columns number to be displayed depending on screen size:
+ 
+#### Example of columns number to be displayed depending on screen size:
 
 ```
 <div class="hit-steps row">
