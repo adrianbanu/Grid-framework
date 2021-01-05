@@ -34,13 +34,13 @@
 
 ```
 <div class="hit-steps row">
-	<div class="learn-steps col-xs-12 col-md-4">
-	</div>
-	<div class="learn-steps col-xs-12 col-md-4">
-	</div>
-	<div class="learn-steps col-xs-12 col-md-4">
-	</div>
+<div class="learn-steps col-xs-12 col-md-4">
+</div>
+<div class="learn-steps col-xs-12 col-md-4">
+</div>
+<div class="learn-steps col-xs-12 col-md-4">
+</div>
 </div>
 ```
 
-[Live demo](https://adrianbanu.github.ioGrid-framework) :thumbsup:
+[Live demo](https://adrianbanu.github.io/Grid-framework) :thumbsup:
