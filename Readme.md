@@ -5,10 +5,10 @@
 ### Features available in the framework. 
 
  
-#### Breakpoints similar to Bootstrap: (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px)
+##### Breakpoints similar to Bootstrap: (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px)
 
  
-#### FLEXBOX
+##### FLEXBOX
 
 - Justify-content
 - Align items
@@ -18,7 +18,7 @@
 - Wrap
 
  
-#### UTILITIES
+##### UTILITIES
 
 - Display
 - Position
@@ -30,16 +30,16 @@
 - Border
 
  
-#### Example of columns number to be displayed depending on screen size:
+##### Example of columns number to be displayed depending on screen size:
 
 ```
 <div class="hit-steps row">
-<div class="learn-steps col-xs-12 col-md-4">
-</div>
-<div class="learn-steps col-xs-12 col-md-4">
-</div>
-<div class="learn-steps col-xs-12 col-md-4">
-</div>
+	<div class="learn-steps col-xs-12 col-md-4">
+	</div>
+	<div class="learn-steps col-xs-12 col-md-4">
+	</div>
+	<div class="learn-steps col-xs-12 col-md-4">
+	</div>
 </div>
 ```
 
