@@ -32,7 +32,7 @@
  
 ##### Example of columns number to be displayed depending on screen size:
 
-```
+```html
 <div class="hit-steps row">
 	<div class="learn-steps col-xs-12 col-md-4">
 	</div>
